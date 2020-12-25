@@ -23,6 +23,6 @@
 
 Податоците ги користите на своја лична одговорност.
 
-При користење на податоците референцирајте го:
+При користење на податоците референцирајте:
 
 SVRTINOV, V.G., TODEVSKI, D., MICAJKOVA, V. and BOSHKOVSKA, D., 2018. THE RELATIONSHIP BETWEEN BANKS'PROFITABILITY PERFORMANCE AND BANKS RISK EXPOSURE IN THE CASE OF MACEDONIAN BANKS. Economic Development/Ekonomiski Razvoj, 20.
